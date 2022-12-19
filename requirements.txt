@@ -1,0 +1,10 @@
+altair
+pandas
+streamlit
+matplotlib
+xlsxwriter
+Openpyxl 
+openpyxl 
+pip
+pdfplumber
+base64
