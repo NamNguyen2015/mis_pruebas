@@ -2,9 +2,6 @@ altair
 pandas
 streamlit
 matplotlib
-xlsxwriter
-Openpyxl 
-openpyxl 
+xlsxwriter 
 pip
-pdfplumber
 base64
