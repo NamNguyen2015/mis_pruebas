@@ -2,6 +2,3 @@ altair
 pandas
 streamlit
 matplotlib
-xlsxwriter 
-pip
-pybase64
