@@ -4,4 +4,4 @@ streamlit
 matplotlib
 xlsxwriter 
 pip
-base64
+pybase64
